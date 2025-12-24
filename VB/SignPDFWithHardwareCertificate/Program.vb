@@ -48,7 +48,7 @@ Namespace SignPDFWithHardwareCertificate
                 signer.SaveDocument("SignedDocument.pdf", cooperSignature)
             End Using
 
-            Call Process.Start("SignedDocument.pdf")
+            Call Process.Start(New ProcessStartInfo("SignedDocument.pdf") With {.UseShellExecute = True})
         End Sub
     End Class
 End Namespace
