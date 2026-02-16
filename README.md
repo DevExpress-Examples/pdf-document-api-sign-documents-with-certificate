@@ -30,7 +30,7 @@ Create a [Pkcs7Signer](https://docs.devexpress.com/OfficeFileAPI/DevExpress.Pdf.
 - [How to sign a PDF document using Azure Key Vault API](https://github.com/DevExpress-Examples/How-to-sign-a-PDF-document-using-Azure-Key-Vault-API)
 
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=pdf-document-api-sign-documents-with-certificate&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=pdf-document-api-sign-documents-with-certificate&~~~was_helpful=no)
 
